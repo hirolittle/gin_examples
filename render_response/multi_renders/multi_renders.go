@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-// xml/json/yaml/protobuf 渲染
+// json/xml/yaml/protobuf 渲染
 
 func main() {
 	router := gin.Default()
